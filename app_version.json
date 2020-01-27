@@ -1,9 +1,8 @@
 {
-  "latestVersion": "1.0.1",
-  "latestVersionCode": 2,
+  "latestVersion": "1.1",
+  "latestVersionCode": 3,
   "url": "https://github.com/antoineos/TestPRivateApp/blob/master/app-debug.apk",
   "releaseNotes": [
-    "- First evolution",
     "- Second evolution",
     "- Bug fixes"
   ]
